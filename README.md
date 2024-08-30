@@ -21,3 +21,17 @@ Job Availability Over Time
 
 4. Area Chart: Displays the trend in the number of available jobs over time, segmented by job level (Internship, Entry Level, Associate, Mid-Senior, Director, Executive). This helps to track the demand for Tableau-related roles over a specified time period.
 
+### How the Dashboard can be used:
+* Filter Jobs by Time Period: Use the date slider at the bottom to filter the available job postings by a specific time period. This will update the visualizations to reflect the job market trends during the selected timeframe.
+
+* Hover for Details: Hover over the bubbles, lines, and plots to view detailed information about job postings, salary expectations, and experience levels.
+
+* Interactive Exploration: Click on different elements within the dashboard (e.g., specific job roles or experience levels) to drill down into the data and explore more specific insights.
+
+### Insights and Use Cases:
+* Job Market Demand: Understand which roles are most in demand and how the demand has evolved over time.
+* Salary Benchmarks: Compares average salary expectations across different roles and experience levels.
+* Experience Requirements: Identify the average years of experience required for various job levels in the industry.
+* Strategic Hiring: Use the data to align hiring strategies with market demand and set competitive salary packages.
+
+
