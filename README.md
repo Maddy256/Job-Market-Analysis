@@ -33,5 +33,9 @@ Job Availability Over Time
 * Salary Benchmarks: Compares average salary expectations across different roles and experience levels.
 * Experience Requirements: Identify the average years of experience required for various job levels in the industry.
 * Strategic Hiring: Use the data to align hiring strategies with market demand and set competitive salary packages.
+### Data Sources
+The data used in this dashboard was gathered from job postings and applicant data across multiple industries and geographical regions as provided in the attached excel workbook.
+### Conclusion
+This dashboard serves as a powerful tool for recruiters, hiring managers, and job seekers to gain valuable insights into the Tableau job market. It helps in making informed decisions regarding hiring strategies, salary offerings, and career planning.
 
 
